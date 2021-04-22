@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ranking-kabau
-- 👀 I’m interested in working with an entity with an impeccable track record and an ambitious future- 🌱 I’m currently learning javascript and react js.
+- 👀 I’m interested in working with an entity with an impeccable track record and an ambitious future- 🌱 I’m currently learning javascript ,node- express framework and react js.
 - 💞️ I’m looking to collaborate on full stack development projects
 - 📫 How to reach ;via email kabaupaatrick@gmail.com,+25471386095
 
